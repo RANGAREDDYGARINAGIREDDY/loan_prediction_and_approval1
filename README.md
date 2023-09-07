@@ -11,4 +11,4 @@ A personal loan is a type of unsecured loan that can be used for a variety of ex
 The idea behind this ML project is to build an ML model and web application that the bank can use to classify if a user can be granted a loan or not.
 
 ### Web template
-For the machine learning deployment, this app uses HTML and CSS templates of [colorlib](https://colorlib.com/wp/template/colorlib-regform-7/)
+For the machine learning deployment, we used HTML and CSS templates of [colorlib](https://colorlib.com/wp/template/colorlib-regform-7/)
